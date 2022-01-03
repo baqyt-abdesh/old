@@ -1,0 +1,91 @@
+body {
+  background: #e5e5e5;
+}
+
+header {
+  padding: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #157698;
+  font-family: Roboto;
+}
+
+#cvphoto {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.container-head span {
+  color: #a9a9a9;
+  font-weight: lighter;
+}
+
+nav {
+  text-align: center;
+  text-transform: lowercase;
+}
+img {
+  height: 20px;
+  width: 20px;
+}
+main {
+  display: flex;
+  width: 800px;
+  margin: 30px auto;
+  padding: 10px;
+}
+h2 {
+  color: #157698;
+  font-family: Roboto;
+}
+
+a {
+  text-decoration: #157698 none;
+}
+
+h3 {
+  color: #157698;
+}
+
+p {
+  color: #a9a9a9;
+}
+
+aside {
+  display: inline-block;
+  width: 35%;
+  /* height: 100%; */
+  margin: 30px auto;
+  padding: 10px;
+}
+
+section {
+  display: inline-block;
+  width: 55%;
+  /* height: ; */
+  margin: 30px auto;
+  padding: 10px;
+}
+
+.position {
+  display: inline-block;
+  width: 35%;
+  /* height: 100%; */
+  margin: 30px auto;
+  padding: 10px;
+}
+
+.work-container {
+  display: inline-block;
+  width: 55%;
+  /* height: ; */
+  margin: 30px auto;
+  padding: 10px;
+}
+/* .skills {
+  display: inline-block;
+  width: 75%;
+  height: ;
+} */
+
